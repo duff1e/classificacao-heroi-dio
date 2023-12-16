@@ -8,7 +8,7 @@ Seu objetivo era utilizar o conteúdo ensinado até então, como variáveis, est
 
 A linguagem de programação utilizada é o JavaScript, sendo ela o foco do Bootcamp. 
 
-O programa roda em um looping que vai gerando números aleatórios, entre 200~600, sendo o valor gerado a quantidade de XP obtida, e acrescendo a variável de XP total. Depois disso ele verifica o rank do herói de acordo com a estrutura condicional que define a quantidade necessária de XP para cada rank; após, ele exibe no console uma mensagem com a quantidade de XP obtida, o nome do herói e o rank do herói. O código continua fazendo isso até atingir o rank máximo, Radiante, quando ele encerra o looping e o programa e exibe uma mensagem final. Os critérios de XP de cada rank são os seguintes:
+O programa roda em um looping que vai gerando números aleatórios, entre 200~600, sendo o valor gerado a quantidade de XP obtida, e acrescendo a variável de XP total. Depois disso ele verifica o rank do herói de acordo com a estrutura condicional que define a quantidade necessária de XP para cada rank; após, ele exibe no console uma mensagem com a quantidade de XP obtida, o nome do herói e o rank do herói. O código continua fazendo isso até atingir o rank máximo, Radiante, quando ele exibe uma mensagem final e encerra o looping e o programa. Os critérios de XP de cada rank são os seguintes:
 
 |   Rank   | Min | Max |
 |----------|-----|-----|
