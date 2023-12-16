@@ -10,7 +10,7 @@ while (rankDoHeroi != "Radiante") {
   XPRecebida = Math.floor(Math.random() * (max - min + 1)) + min;
   XPTotal = XPTotal + XPRecebida
 
-  let mensagemDeXP = "Você ganhou " + XPRecebida + " de XP, totalizando " + XPTotal + " de XP. "
+  let mensagemDeXP = "Você ganhou " + XPRecebida + " de XP, totalizando " + XPTotal + " de XP."
 
   if (XPTotal <= 1000) {
     rankDoHeroi = "Ferro"
