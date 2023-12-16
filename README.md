@@ -2,7 +2,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Este código foi criado para o projeto de Classificador de Nível de Herói realizado para o **Bootcamp Potência Tech iFood: Programação do Zero** oferecido pela **DIO** numa bolsa concedida pelo **iFood** inicialmente, mas dado a um erro no código e a redundância no uso de looping, não é mais para esse fim.
+Este código foi criado para o projeto de Classificador de Nível de Herói realizado para o **Bootcamp Potência Tech iFood: Programação do Zero** oferecido pela **DIO** numa bolsa concedida pelo **iFood**.
 
 Seu objetivo era utilizar o conteúdo ensinado até então, como variáveis, estruturas condicionais, loopings e operadores. 
 
